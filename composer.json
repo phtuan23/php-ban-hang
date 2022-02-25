@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "tamtamchik/simple-flash": "^2.0"
+    }
+}
